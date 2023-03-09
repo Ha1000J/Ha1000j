@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Hammilton 😁
+## Bem-vindo(a) ao perfil do Hamilton 😁
 
  <div>
    <a href="https://github.com/Ha1000j">
@@ -22,6 +22,4 @@
   <a href = "mailto:hamilton27089@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hamilton-jr-53a182269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
 </div>
